@@ -35,7 +35,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://laravel.com/" target="_blank"> 
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-white?logo=laravel">
   </a> 
 </p>
