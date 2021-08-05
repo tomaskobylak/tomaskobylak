@@ -19,7 +19,7 @@
 - ❤️  I love PHP and Laravel
 - 🧠 I like to learn new things and I like challenges
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/tomáš-kobylák-677833ba/].
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/tomáš-kobylák-677833ba/).
 - ⚡ I worked as a tester for 3 years, so I can anticipate problems during programming
 
 <br>
