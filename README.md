@@ -20,7 +20,6 @@
 - 🧠 I like to learn new things and I like challenges
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/tomáš-kobylák-677833ba/).
-- ⚡ I worked as a tester for 3 years, so I can anticipate problems during programming
 
 <br>
 
@@ -73,6 +72,8 @@
  
 <p>
   &emsp;
+  <a href="#"><img alt="PHPStorm" src="https://img.shields.io/badge/PHPStorm-%23563D7C.svg?logo=phpstorm&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23563D7C.svg?logo=jetbrains&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="TablePlus" src="https://img.shields.io/badge/TablePlus-00b56a.svg?logo=tableplus&logoColor=white"></a>
@@ -83,11 +84,7 @@
   &emsp;
     <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-000000?style=flat&logo=apple&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="PHPStorm" src="https://img.shields.io/badge/PHPStorm-%23563D7C.svg?logo=phpstorm&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
